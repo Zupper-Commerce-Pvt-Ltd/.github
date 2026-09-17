@@ -1,66 +1,74 @@
 <div align="center">
   <a href="https://zupper.co/">
-    <img src="https://zupper.co/favicon.ico" alt="Zupper Commerce logo" width="96" height="96" />
+    <img src="https://zupper.co/favicon.ico" alt="Zupper Commerce logo" width="110" height="110" />
   </a>
 
   # Zupper Commerce Private Limited
 
-  ### Powering smarter B2B commerce from Bengaluru, India
+  ### 🇮🇳 Building a stronger future for Indian B2B commerce
+
+  <p><strong>India-focused wholesale buying • Supplier discovery • Digital business commerce</strong></p>
 
   <p>
-    <a href="https://zupper.co/"><img src="https://img.shields.io/badge/Visit%20Zupper-zupper.co-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Zupper" /></a>
-    <a href="mailto:itadmin@zupper.com"><img src="https://img.shields.io/badge/Contact%20us-itadmin%40zupper.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Zupper" /></a>
+    <a href="https://zupper.co/"><img src="https://img.shields.io/badge/Visit%20Zupper-zupper.co-138808?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Zupper" /></a>
+    <a href="mailto:itadmin@zupper.com"><img src="https://img.shields.io/badge/Contact%20us-itadmin%40zupper.com-FF9933?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Zupper" /></a>
   </p>
 </div>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=85" alt="Digital commerce and business shopping" width="100%" />
+  <img src="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1600&q=85" alt="Indian landmark representing Zupper's India-first vision" width="100%" />
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/INDIA-FF9933?style=flat-square" alt="India saffron" />
+  <img src="https://img.shields.io/badge/Business%20Commerce-FFFFFF?style=flat-square&labelColor=138808&color=138808" alt="Business commerce" />
+  <img src="https://img.shields.io/badge/Bengaluru-138808?style=flat-square" alt="Bengaluru" />
+</div>
 
 ## About Zupper
 
-[Zupper](https://zupper.co/) is a B2B e-commerce platform designed to make business purchasing easier. We help businesses discover products, connect with suppliers, and manage wholesale orders through a modern digital commerce experience.
+[Zupper](https://zupper.co/) is a B2B e-commerce platform from Bengaluru, India, created to make wholesale purchasing simpler for Indian businesses. We help businesses discover products, connect with suppliers, and manage their purchasing journey online.
 
-Our goal is simple: **make B2B buying more convenient, transparent, and efficient.**
+Our vision is to support India’s growing business community with a convenient, transparent, and efficient digital commerce experience.
 
-## Our platform
+## What we offer
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Business purchasing</h3>
-      Discover products and place wholesale orders online with a smoother buying experience.
+      <h3>🛒 Easy business buying</h3>
+      Discover products and purchase for your business through a convenient online experience.
     </td>
     <td width="50%" valign="top">
       <h3>🤝 Supplier connections</h3>
-      Bring buyers and suppliers closer together through digital commerce.
+      Help buyers and suppliers connect through a trusted digital marketplace.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 Wholesale commerce</h3>
-      Support the needs of businesses purchasing products at scale.
+      Support business purchasing and orders at scale across India.
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Simpler operations</h3>
-      Reduce friction in product discovery, ordering, and business procurement.
+      <h3>⚡ Digital convenience</h3>
+      Make product discovery and procurement faster, clearer, and more accessible.
     </td>
   </tr>
 </table>
 
-## Why Zupper?
+## Our India-first focus
 
-- Built for **business-to-business commerce**
-- Focused on convenient online wholesale purchasing
-- Designed to connect buyers with suppliers
-- Creating a more accessible digital buying journey
-- Based in **Bengaluru, India**
+- 🇮🇳 Built with Indian businesses and entrepreneurs in mind
+- 🏪 Supporting wholesale and business-to-business purchasing
+- 🌐 Connecting buyers and suppliers through digital commerce
+- 📈 Helping businesses participate in India’s growing online economy
+- 📍 Proudly based in **Bengaluru, India**
 
 ## Explore Zupper
 
 <p align="center">
   <a href="https://zupper.co/">
-    <img src="https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=1200&q=85" alt="Explore Zupper B2B commerce" width="48%" />
+    <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1200&q=85" alt="Explore Zupper digital business commerce" width="48%" />
   </a>
 </p>
 
@@ -72,6 +80,7 @@ Our goal is simple: **make B2B buying more convenient, transparent, and efficien
 
 - 🌐 Website: [zupper.co](https://zupper.co/)
 - 📧 Email: [itadmin@zupper.com](mailto:itadmin@zupper.com)
+- 📍 Location: Bengaluru, India
 
 <p align="left">
   <a href="https://twitter.com/zupper" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Zupper on Twitter" /></a>
